@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SummonerCS\SummonerCS\bin\Debug\SummonerCS.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SummonerCS\SummonerCS\bin\Debug\SummonerCS.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SummonerCS\SummonerCS\bin\Debug\SummonerCS.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SummonerCS\SummonerCS\obj\Debug\SummonerCS.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SummonerCS\SummonerCS\obj\Debug\SummonerCS.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SummonerCS\SummonerCS\obj\Debug\SummonerCS.pdb
